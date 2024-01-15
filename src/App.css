@@ -56,3 +56,6 @@
     font-family: Lancelot;
     @apply text-2xl absolute top-28 left-[470px] text-teal-900
 }
+.ShopCategoriesName{
+    font-family: 'Galada';
+}

@@ -51,9 +51,40 @@ function App() {
                     <p className={'shopSub1'}>Shop effortlessly from the comfort of your home with our seamless online shopping</p>
                     <p className={'shopSub2'}>experience, bringing convenience and style to your fingertips.</p>
 
-                    <div>
-                        <img src={''}/>
+                    <div className={'ShopingImg absolute top-[200px] left-[120px] flex items-center gap-20'}>
+                        <img src={'src/assets/image/How to identify a bad beautician_.jpeg'} className={'w-[260px] h-[400px]'}/>
+                        <img src={'src/assets/image/O H H O N E Y.jpeg'} className={'w-[260px] h-[400px]'}/>
+                        <img src={'src/assets/image/5 New Makeup Releases at Sephora To Splurge On - thatgirlArlene.jpeg'} className={'w-[260px] h-[400px]'}/>
+                        <img src={'src/assets/image/girls hand bags.jpeg'} className={'w-[260px] h-[400px]'}/>
                     </div>
+
+                    <div className={'ShopCategoriesName text-xl flex text-center top-[650px] absolute gap-[260px] left-[160px]'}>
+                        <h1 className={''}>Skin Care <img src={'src/assets/image/right-arrow.png'} className={'w-[40px] absolute left-[80px] top-[-3px]'}/></h1>
+                        <h1>Hair Care<img src={'src/assets/image/right-arrow.png'} className={'w-[40px] absolute left-[415px] top-[-3px]'}/></h1>
+                        <h1>Make-up items<img src={'src/assets/image/right-arrow.png'} className={'w-[40px] absolute left-[790px] top-[-3px]'}/></h1>
+                        <h1>Hand Bag & parse<img src={'src/assets/image/right-arrow.png'} className={'w-[40px] absolute left-[1195px]  top-[-3px]'}/></h1>
+                    </div>
+                </div>
+            </section>
+
+            {/*----------------------------------------------------------------------------------*/}
+
+            <section>
+                <img src={"src/assets/image/adobe Background image 2.png"} className={'relative top-[729px] w-full'}/>
+                <div className={'absolute w-[1518px] h-[730px] bg-teal-100 bg-opacity-80'}>
+
+
+                    <div className={'ShopingImg absolute top-[90px] left-[120px] flex items-center gap-28'}>
+                        <img src={'src/assets/image/download (1).jpeg'} className={'w-[265px] h-[400px]'}/>
+                        <img src={'src/assets/image/Ted Baker Menipp High heel.jpg'} className={'w-[265px] h-[400px]'}/>
+                        <img src={'src/assets/image/Lacoste Straightset.jpeg'} className={'w-[265px] h-[400px]'}/>
+                    </div>
+
+                    <div className={'ShopCategoriesName text-xl flex text-center top-[550px] absolute gap-[280px] left-[160px]'}>
+                        <h1 className={''}>Earrings <img src={'src/assets/image/right-arrow.png'} className={'w-[40px] absolute left-[80px] top-[-3px]'}/></h1>
+                        <h1>High Heels<img src={'src/assets/image/right-arrow.png'} className={'w-[40px] absolute left-[435px] top-[-3px]'}/></h1>
+                        <h1>Casual Shoes & Sandals<img src={'src/assets/image/right-arrow.png'} className={'w-[40px] absolute left-[910px] top-[-3px]'}/></h1>
+              </div>
                 </div>
             </section>
         </div>
