@@ -1,0 +1,58 @@
+
+.navtext{
+    font-family: 'Kings';
+    font-size: 25px;
+    gap: 10px;
+}
+
+.textTran{
+    left: 100px;
+}
+
+.bglogo{
+    left: 98px;
+}
+/*//////////////////////////////////////////////*/
+
+.homePtext{
+    font-family: 'Galada';
+    @apply  align-middle text-center text-4xl
+}
+
+.HomeSub{
+    font-family: Lancelot;
+    left: 200px;
+    @apply text-3xl
+}
+.HomeSub2{
+    font-family: Lancelot;
+    left: 205px;
+    @apply text-3xl
+}
+.HomeSub3{
+    font-family: Lancelot;
+    left: 390px;
+    @apply text-3xl
+}
+
+.homebtn{
+    font-family: Lancelot;
+    @apply w-[150px] h-[50px] text-3xl left-[580px] top-[470px] text-white
+}
+
+/*------------------------------------------------------------------------------------*/
+
+.ShopTxt{
+    font-family: 'Galada';
+    @apply text-4xl absolute top-8 left-20 text-teal-600
+}
+
+.shopSub1{
+    font-family: Lancelot;
+    @apply text-2xl absolute left-[370px] top-20 text-teal-900
+}
+
+.shopSub2{
+    font-family: Lancelot;
+    @apply text-2xl absolute top-28 left-[470px] text-teal-900
+}
