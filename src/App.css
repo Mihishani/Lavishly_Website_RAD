@@ -59,3 +59,34 @@
 .ShopCategoriesName{
     font-family: 'Galada';
 }
+
+/*----------------------------------------------------------------------------------------------------*/
+
+.OffersTxt{
+    font-family: 'Galada';
+    @apply text-4xl absolute top-3 left-20 text-teal-600
+}
+
+.offersSub1{
+    font-family: Lancelot;
+    @apply text-2xl absolute left-[370px] top-12 text-teal-900
+}
+
+.offersSub2{
+    font-family: Lancelot;
+    @apply text-2xl absolute top-20 left-[680px] text-teal-900
+}
+
+.OfferText1{
+    font-family: 'Galada';
+    @apply text-lg
+}
+
+.OFT1{
+    font-family: Lancelot;
+    @apply text-lg
+}
+
+.OFT2{
+    @apply font-medium text-sm
+}

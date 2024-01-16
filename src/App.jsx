@@ -81,12 +81,90 @@ function App() {
                     </div>
 
                     <div className={'ShopCategoriesName text-xl flex text-center top-[550px] absolute gap-[280px] left-[160px]'}>
-                        <h1 className={''}>Earrings <img src={'src/assets/image/right-arrow.png'} className={'w-[40px] absolute left-[80px] top-[-3px]'}/></h1>
+                        <h1 className={''}>Earrings <img src={'src/assets/image/right-arrow.png'} className={'w-[40px] absolute left-[75px] top-[-3px]'}/></h1>
                         <h1>High Heels<img src={'src/assets/image/right-arrow.png'} className={'w-[40px] absolute left-[435px] top-[-3px]'}/></h1>
-                        <h1>Casual Shoes & Sandals<img src={'src/assets/image/right-arrow.png'} className={'w-[40px] absolute left-[910px] top-[-3px]'}/></h1>
-              </div>
+                        <h1>Casual Shoes & Sandals<img src={'src/assets/image/right-arrow.png'} className={'w-[40px] absolute left-[905px] top-[-3px]'}/></h1>
+                    </div>
                 </div>
             </section>
+
+            {/*--------------------------------------------------------------------------------------------------*/}
+
+            <section>
+                <img src={'src/assets/image/adobe Background image 2.png'} className={'relative  top-[729px] w-full'}/>
+                <div className={'absolute  w-full  h-[730px]  bg-teal-100 bg-opacity-80'}>
+                    <h1 className={'OffersTxt'}>OFFERS</h1>
+                    <p className={'offersSub1'}>Unleash savings like never before! Explore our exclusive web offers now – your shortcut to</p>
+                    <p className={'offersSub2'}>incredible deals!</p>
+                </div>
+
+                <div className={'absolute flex items-center gap-72 left-[155px] top-[2340px]'}>
+                    <img src={'src/assets/image/Niacinamide.jpg'} className={'w-[200px] h-[200px] rounded-l rounded-r '}/>
+                    <img src={'src/assets/image/salicylic.jpg'} className={'w-[200px] h-[200px] rounded-l rounded-r '}/>
+                    <img src={'src/assets/image/peeling.jpg'} className={'w-[200px] h-[200px] rounded-l rounded-r '}/>
+                </div>
+                    <div className={'relative'}>
+                        <h1 className={'OfferText1 absolute top-[325px] left-[110px]'}>The ordinary Niacinamide 10% + Zinc 1% </h1>
+                        <p className={'OFT1 absolute top-[350px] left-[140px]'}>High strength Vitamin & Mineral</p>
+                        <p className={'OFT1 absolute top-[370px] left-[175px]'}>Blemish Formula  30ml</p>
+                            <div className={'OFT2 flex gap-5 absolute top-[390px] left-[140px]'}>
+                                <p className={'text-red-800 line-through'}>Rs6,550.00</p>
+                                <p className={'text-teal-800'}>Rs5,764.00   12% off</p>
+                            </div>
+                        <button className={'absolute rounded-l rounded-r text-white bg-teal-800 w-[80px] h-[40px] top-[420px] left-[200px] hover:text-black hover:bg-teal-500'}>Lern more</button>
+                    </div>
+
+                <div className={'relative'}>
+                    <h1 className={'OfferText1 absolute top-[325px] left-[600px]'}>The ordinary Salicylic Acid 2% Solution </h1>
+                    <p className={'OFT1 absolute top-[350px] left-[640px]'}>Formulated for Acne-Prone Skin.</p>
+                    <p className={'OFT1 absolute top-[370px] left-[720px]'}>30ml</p>
+                    <div className={'OFT2 flex gap-5 absolute top-[390px] left-[640px]'}>
+                        <p className={'text-red-800 line-through'}>Rs6,550.00</p>
+                        <p className={'text-teal-800'}>Rs5,764.00   12% off</p>
+                    </div>
+                    <button className={'absolute rounded-l rounded-r text-white bg-teal-800 w-[80px] h-[40px] top-[420px] left-[700px] hover:text-black hover:bg-teal-500'}>Lern more</button>
+                </div>
+
+                <div className={'relative'}>
+                    <h1 className={'OfferText1 absolute top-[325px] left-[1050px]'}>The ordinary Peeling Solution AHA 30% + BHA 2%</h1>
+                    <p className={'OFT1 absolute top-[350px] left-[1105px]'}>10- Minute Exfoliating Facial. PH-3.6</p>
+                    <p className={'OFT1 absolute top-[370px] left-[1205px]'}>30ml</p>
+                    <div className={'OFT2 flex gap-5 absolute top-[390px] left-[1120px]'}>
+                        <p className={'text-red-800 line-through'}>Rs6,550.00</p>
+                        <p className={'text-teal-800'}>Rs5,764.00   12% off</p>
+                    </div>
+                    <button className={'absolute rounded-l rounded-r text-white bg-teal-800 w-[80px] h-[40px] top-[420px] left-[1200px] hover:text-black hover:bg-teal-500'}>Lern more</button>
+                </div>
+
+                <div className={'absolute flex items-center gap-80 left-[370px] top-[2620px]'}>
+                    <img src={'src/assets/image/Marine.jpg'} className={'w-[200px] h-[200px] rounded-l rounded-r '}/>
+                    <img src={'src/assets/image/b61d65f589ca63cb6e3d8bddeee837ba.jpg'} className={'w-[200px] h-[200px] rounded-l rounded-r '}/>
+                </div>
+
+                <div className={'relative'}>
+                    <h1 className={'OfferText1 absolute top-[605px] left-[350px]'}>The ordinary Marine Hyaluronic </h1>
+                    <p className={'OFT1 absolute top-[625px] left-[400px]'}>lightweight serum.</p>
+                    <p className={'OFT1 absolute top-[640px] left-[440px]'}>30ml</p>
+                    <div className={'OFT2 flex gap-5 absolute top-[660px] left-[360px]'}>
+                        <p className={'text-red-800 line-through'}>Rs6,550.00</p>
+                        <p className={'text-teal-800'}>Rs5,764.00   12% off</p>
+                    </div>
+                    <button className={'absolute rounded-l rounded-r text-white bg-teal-800 w-[80px] h-[40px] top-[685px] left-[420px] hover:text-black hover:bg-teal-500'}>Lern more</button>
+                </div>
+
+                <div className={'relative'}>
+                    <h1 className={'OfferText1 absolute top-[605px] left-[800px]'}>The ordinary Vitamin C Suspension 23% + HA Spheres 2%</h1>
+                    <p className={'OFT1 absolute top-[625px] left-[850px]'}>A Water-free, Silicon-free Stable Suspension.</p>
+                    <p className={'OFT1 absolute top-[640px] left-[970px]'}>30ml</p>
+                    <div className={'OFT2 flex gap-5 absolute top-[660px] left-[880px]'}>
+                        <p className={'text-red-800 line-through'}>Rs6,550.00</p>
+                        <p className={'text-teal-800'}>Rs5,764.00   12% off</p>
+                    </div>
+                    <button className={'absolute rounded-l rounded-r text-white bg-teal-800 w-[80px] h-[40px] top-[685px] left-[950px] hover:text-black hover:bg-teal-500'}>Lern more</button>
+                </div>
+            </section>
+
+            {/*-----------------------------------------------------------------------------------------------------------------*/}
         </div>
     );
 }
