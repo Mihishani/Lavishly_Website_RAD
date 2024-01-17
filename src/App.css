@@ -90,3 +90,14 @@
 .OFT2{
     @apply font-medium text-sm
 }
+
+/*//////////////////////////////////////////////////////////////////////////////////////////////////*/
+.LatestTxt{
+    font-family: 'Galada';
+    @apply text-4xl absolute top-3 left-20 text-teal-600
+}
+
+.LatestSub{
+    font-family: Lancelot;
+    @apply text-2xl absolute left-[80px] top-16 text-teal-900
+}

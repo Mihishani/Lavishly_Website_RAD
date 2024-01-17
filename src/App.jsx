@@ -2,7 +2,7 @@ import './App.css'
 
 function App() {
     return (
-        <div>
+        <div className={''}>
             <header className={''}>
                 <nav className="flex items-center justify-between p-4 bg-white text-cyan-950 border-2">
                     <img src="src/assets/image/the (1).png" title="logo" alt="logo" className="w-[150px]" />
@@ -163,8 +163,23 @@ function App() {
                     <button className={'absolute rounded-l rounded-r text-white bg-teal-800 w-[80px] h-[40px] top-[685px] left-[950px] hover:text-black hover:bg-teal-500'}>Lern more</button>
                 </div>
             </section>
-
+n
             {/*-----------------------------------------------------------------------------------------------------------------*/}
+
+            <section>
+                <img src={'src/assets/image/adobe Background image 2.png'} alt={'bgimage'} className={'relative w-full top-[705px] '} />
+                <div className={'absolute top-[2942px] w-[1518px] h-[730px] bg-teal-100 bg-opacity-80'}>
+                    <h1 className={'LatestTxt'}>LATEST</h1>
+                    <h1 className={'LatestSub'}><u>LATEST WOMEN BAG</u></h1>
+
+                    <div className={'absolute flex gap-40 top-[100px] left-[100px]'}>
+                        <img src={'src/assets/image/Pleated Minimalist Half Moon Dumpling Bag.jpg'} className={'w-[200px] h-[200px]'}/>
+                        <img src={'src/assets/image/Quilted Embossed Flap Chain Bag.jpg'} className={'w-[200px] h-[200px]'}/>
+                        <img src={'src/assets/image/Mulitiple color Casual bag.jpg'} className={'w-[200px] h-[200px]'}/>
+                        <img src={'src/assets/image/Casual Fashionable Women Bag.jpg'} className={'w-[200px] h-[200px]'}/>
+                    </div>
+                </div>
+            </section>
         </div>
     );
 }
