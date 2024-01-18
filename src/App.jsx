@@ -172,11 +172,66 @@ n
                     <h1 className={'LatestTxt'}>LATEST</h1>
                     <h1 className={'LatestSub'}><u>LATEST WOMEN BAG</u></h1>
 
-                    <div className={'absolute flex gap-40 top-[100px] left-[100px]'}>
+                    <div className={'absolute flex gap-40 top-[100px] left-[105px]'}>
                         <img src={'src/assets/image/Pleated Minimalist Half Moon Dumpling Bag.jpg'} className={'w-[200px] h-[200px]'}/>
                         <img src={'src/assets/image/Quilted Embossed Flap Chain Bag.jpg'} className={'w-[200px] h-[200px]'}/>
                         <img src={'src/assets/image/Mulitiple color Casual bag.jpg'} className={'w-[200px] h-[200px]'}/>
                         <img src={'src/assets/image/Casual Fashionable Women Bag.jpg'} className={'w-[200px] h-[200px]'}/>
+                    </div>
+
+                    <div>
+                        <h1 className={'latestnametxt absolute top-[300px] left-[45px]'}>Pleated Minimalist Half Moon Dumpling Bag</h1>
+                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[320px] left-[150px]'}>Rs3,580.00</p>
+                        <button className={'absolute w-[80px] h-[40px] bg-teal-800 rounded-l rounded-r text-white left-[150px] top-[350px]'}>Shop Now</button>
+                    </div>
+
+                    <div>
+                        <h1 className={'latestnametxt absolute top-[300px] left-[460px]'}> Quilted Embossed Flap Chain Bag</h1>
+                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[320px] left-[520px]'}>Rs4,890.00</p>
+                        <button className={'absolute w-[80px] h-[40px] bg-teal-800 rounded-l rounded-r text-white left-[520px] top-[350px]'}>Shop Now</button>
+                    </div>
+
+                    <div>
+                        <h1 className={'latestnametxt absolute top-[300px] left-[840px]'}> Mulitiple color Casual bag</h1>
+                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[320px] left-[880px]'}>Rs5,890.00</p>
+                        <button className={'absolute w-[80px] h-[40px] bg-teal-800 rounded-l rounded-r text-white left-[880px] top-[350px]'}>Shop Now</button>
+                    </div>
+
+                    <div>
+                        <h1 className={'latestnametxt absolute top-[300px] left-[1180px]'}>  Casual Fashionable Women Bag</h1>
+                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[320px] left-[1240px]'}>Rs2,400.00</p>
+                        <button className={'absolute w-[80px] h-[40px] bg-teal-800 rounded-l rounded-r text-white left-[1240px] top-[350px]'}>Shop Now</button>
+                    </div>
+
+                    <div className={'absolute flex gap-40 top-[400px] left-[105px]'}>
+                        <img src={'src/assets/image/Casual Women Bag.jpg'} className={'w-[200px] h-[200px]'}/>
+                        <img src={'src/assets/image/Glitter Marble Purse.jpg'} className={'w-[200px] h-[200px]'}/>
+                        <img src={'src/assets/image/Quilted Flap Chain Square Bag.jpg'} className={'w-[200px] h-[200px]'}/>
+                        <img src={'src/assets/image/Bag.jpg'} className={'w-[200px] h-[200px]'}/>
+                    </div>
+
+                    <div>
+                        <h1 className={'latestnametxt absolute top-[600px] left-[115px]'}> Casual Women Chain Bag</h1>
+                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[620px] left-[150px]'}>Rs3,890.00</p>
+                        <button className={'absolute w-[80px] h-[40px] bg-teal-800 rounded-l rounded-r text-white left-[150px] top-[650px]'}>Shop Now</button>
+                    </div>
+
+                    <div>
+                        <h1 className={'latestnametxt absolute top-[600px] left-[500px]'}>Glitter Marble Purse</h1>
+                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[620px] left-[520px]'}>Rs7,990.00</p>
+                        <button className={'absolute w-[80px] h-[40px] bg-teal-800 rounded-l rounded-r text-white left-[520px] top-[650px]'}>Shop Now</button>
+                    </div>
+
+                    <div>
+                        <h1 className={'latestnametxt absolute top-[600px] left-[825px]'}> Quilted Flap Chain Square Bag</h1>
+                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[620px] left-[880px]'}>Rs5,690.00</p>
+                        <button className={'absolute w-[80px] h-[40px] bg-teal-800 rounded-l rounded-r text-white left-[880px] top-[650px]'}>Shop Now</button>
+                    </div>
+
+                    <div>
+                        <h1 className={'latestnametxt absolute top-[600px] left-[1190px]'}> Gold Cyan Square Hand Bag</h1>
+                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[620px] left-[1240px]'}>Rs6,690.00</p>
+                        <button className={'absolute w-[80px] h-[40px] bg-teal-800 rounded-l rounded-r text-white left-[1240px] top-[650px]'}>Shop Now</button>
                     </div>
                 </div>
             </section>

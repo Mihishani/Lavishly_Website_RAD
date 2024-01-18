@@ -99,5 +99,9 @@
 
 .LatestSub{
     font-family: Lancelot;
-    @apply text-2xl absolute left-[80px] top-16 text-teal-900
+    @apply text-2xl absolute left-[80px] top-12 text-teal-900
+}
+
+.latestnametxt{
+    font-family: 'Galada';
 }
