@@ -241,7 +241,7 @@ n
             <section>
                 <img src={'src/assets/image/adobe Background image 2.png'} alt={'bgimage'} className={'relative w-full top-[705px] '} />
                 <div className={'absolute top-[3671px] w-[1518px] h-[730px] bg-teal-100 bg-opacity-80'}>
-                    <h1 className={'LatestSub'}><u>LATEST WOMEN BAG</u></h1>
+                    <h1 className={'LatestSub'}><u>LATEST EARRINGS</u></h1>
 
                     <div className={'absolute flex gap-40 top-[100px] left-[105px]'}>
                         <img src={'src/assets/image/GoldPink Drop Earrings.jpg'} className={'w-[200px] h-[200px]'}/>
@@ -279,6 +279,77 @@ n
                         <img src={'src/assets/image/Geometric drop earrings.jpg'} className={'w-[200px] h-[200px]'}/>
                         <img src={'src/assets/image/9pairs Star & Flower Drop Earring set.jpg'} className={'w-[200px] h-[200px]'}/>
                         <img src={'src/assets/image/9Pairs Gold Plated Earring set.jpg'} className={'w-[200px] h-[200px]'}/>
+                    </div>
+
+                    <div>
+                        <h1 className={'latestnametxt absolute top-[600px] left-[110px]'}>Color Block Drop Earrings</h1>
+                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[620px] left-[150px]'}>Rs1,090.00</p>
+                        <button className={'absolute w-[80px] h-[40px] bg-teal-800 rounded-l rounded-r text-white left-[150px] top-[650px]'}>Shop Now</button>
+                    </div>
+
+                    <div>
+                        <h1 className={'latestnametxt absolute top-[600px] left-[500px]'}> Geometric drop earrings</h1>
+                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[620px] left-[520px]'}>Rs1,090.00</p>
+                        <button className={'absolute w-[80px] h-[40px] bg-teal-800 rounded-l rounded-r text-white left-[520px] top-[650px]'}>Shop Now</button>
+                    </div>
+
+                    <div>
+                        <h1 className={'latestnametxt absolute top-[600px] left-[810px]'}>9pairs Star & Flower Drop Earring set</h1>
+                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[620px] left-[880px]'}>Rs1,890.00</p>
+                        <button className={'absolute w-[80px] h-[40px] bg-teal-800 rounded-l rounded-r text-white left-[880px] top-[650px]'}>Shop Now</button>
+                    </div>
+
+                    <div>
+                        <h1 className={'latestnametxt absolute top-[600px] left-[1190px]'}>9Pairs Gold Plated Earring set</h1>
+                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[620px] left-[1240px]'}>Rs1,890.00</p>
+                        <button className={'absolute w-[80px] h-[40px] bg-teal-800 rounded-l rounded-r text-white left-[1240px] top-[650px]'}>Shop Now</button>
+                    </div>
+                </div>
+            </section>
+
+            {/*--------------------------------------------------------------------------------------------------------------------------------*/}
+
+            <section>
+                <img src={'src/assets/image/adobe Background image 2.png'} alt={'bgimage'} className={'relative w-full top-[705px] '} />
+                <div className={'absolute top-[4401px] w-[1518px] h-[730px] bg-teal-100 bg-opacity-80'}>
+                    <h1 className={'LatestSub'}><u>LATEST HEELS</u></h1>
+
+                    <div className={'absolute flex gap-40 top-[100px] left-[105px]'}>
+                        <img src={'src/assets/image/Ankle Strap Flats.jpg'} className={'w-[200px] h-[200px]'}/>
+                        <img src={'src/assets/image/Ankle Strap Platform Chunky Heel Sandals.jpg'} className={'w-[200px] h-[200px]'}/>
+                        <img src={'src/assets/image/Summer Spring Cute Heels Sandal.jpg'} className={'w-[200px] h-[200px]'}/>
+                        <img src={'src/assets/image/New Pointed Court Shoes.jpg'} className={'w-[200px] h-[200px]'}/>
+                    </div>
+
+                    <div>
+                        <h1 className={'latestnametxt absolute top-[300px] left-[120px]'}>Ankle Strap Flats</h1>
+                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[320px] left-[160px]'}>Rs890.00</p>
+                        <button className={'absolute w-[80px] h-[40px] bg-teal-800 rounded-l rounded-r text-white left-[150px] top-[350px]'}>Shop Now</button>
+                    </div>
+
+                    <div>
+                        <h1 className={'latestnametxt absolute top-[300px] left-[475px]'}>Flower Decor Stud Earrings</h1>
+                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[320px] left-[520px]'}>Rs1,090.00</p>
+                        <button className={'absolute w-[80px] h-[40px] bg-teal-800 rounded-l rounded-r text-white left-[520px] top-[350px]'}>Shop Now</button>
+                    </div>
+
+                    <div>
+                        <h1 className={'latestnametxt absolute top-[300px] left-[845px]'}> Silver Butterfly earrings</h1>
+                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[320px] left-[890px]'}>Rs990.00</p>
+                        <button className={'absolute w-[80px] h-[40px] bg-teal-800 rounded-l rounded-r text-white left-[880px] top-[350px]'}>Shop Now</button>
+                    </div>
+
+                    <div>
+                        <h1 className={'latestnametxt absolute top-[300px] left-[1180px]'}>Golden Hanging Swing earrings</h1>
+                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[320px] left-[1240px]'}>Rs1,290.00</p>
+                        <button className={'absolute w-[80px] h-[40px] bg-teal-800 rounded-l rounded-r text-white left-[1240px] top-[350px]'}>Shop Now</button>
+                    </div>
+
+                    <div className={'absolute flex gap-40 top-[400px] left-[105px]'}>
+                        <img src={'src/assets/image/New Floral transparent High heel.jpg'} className={'w-[200px] h-[200px]'}/>
+                        <img src={'src/assets/image/Cinderella high heel.jpg'} className={'w-[200px] h-[200px]'}/>
+                        <img src={'src/assets/image/Ted Baker Menipp High heel.jpg'} className={'w-[200px] h-[200px]'}/>
+                        <img src={'src/assets/image/Floral Embroider mesh High heel.jpg'} className={'w-[200px] h-[200px]'}/>
                     </div>
 
                     <div>
