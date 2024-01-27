@@ -323,25 +323,25 @@ n
 
                     <div>
                         <h1 className={'latestnametxt absolute top-[300px] left-[120px]'}>Ankle Strap Flats</h1>
-                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[320px] left-[160px]'}>Rs890.00</p>
+                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[320px] left-[160px]'}>Rs2,890.00</p>
                         <button className={'absolute w-[80px] h-[40px] bg-teal-800 rounded-l rounded-r text-white left-[150px] top-[350px]'}>Shop Now</button>
                     </div>
 
                     <div>
-                        <h1 className={'latestnametxt absolute top-[300px] left-[475px]'}>Flower Decor Stud Earrings</h1>
-                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[320px] left-[520px]'}>Rs1,090.00</p>
+                        <h1 className={'latestnametxt absolute top-[300px] left-[475px]'}>Ankle Strap Platform Chunky Heel Sandals</h1>
+                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[320px] left-[520px]'}>Rs6,990.00</p>
                         <button className={'absolute w-[80px] h-[40px] bg-teal-800 rounded-l rounded-r text-white left-[520px] top-[350px]'}>Shop Now</button>
                     </div>
 
                     <div>
-                        <h1 className={'latestnametxt absolute top-[300px] left-[845px]'}> Silver Butterfly earrings</h1>
-                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[320px] left-[890px]'}>Rs990.00</p>
+                        <h1 className={'latestnametxt absolute top-[300px] left-[845px]'}>Summer Spring Cute Heels Sandal</h1>
+                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[320px] left-[890px]'}>Rs6,990.00</p>
                         <button className={'absolute w-[80px] h-[40px] bg-teal-800 rounded-l rounded-r text-white left-[880px] top-[350px]'}>Shop Now</button>
                     </div>
 
                     <div>
-                        <h1 className={'latestnametxt absolute top-[300px] left-[1180px]'}>Golden Hanging Swing earrings</h1>
-                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[320px] left-[1240px]'}>Rs1,290.00</p>
+                        <h1 className={'latestnametxt absolute top-[300px] left-[1180px]'}>New Pointed Court Shoe</h1>
+                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[320px] left-[1240px]'}>Rs3,290.00</p>
                         <button className={'absolute w-[80px] h-[40px] bg-teal-800 rounded-l rounded-r text-white left-[1240px] top-[350px]'}>Shop Now</button>
                     </div>
 
@@ -353,26 +353,26 @@ n
                     </div>
 
                     <div>
-                        <h1 className={'latestnametxt absolute top-[600px] left-[110px]'}>Color Block Drop Earrings</h1>
-                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[620px] left-[150px]'}>Rs1,090.00</p>
+                        <h1 className={'latestnametxt absolute top-[600px] left-[110px]'}>New Floral Transparent High heel</h1>
+                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[620px] left-[150px]'}>Rs7,690.00</p>
                         <button className={'absolute w-[80px] h-[40px] bg-teal-800 rounded-l rounded-r text-white left-[150px] top-[650px]'}>Shop Now</button>
                     </div>
 
                     <div>
-                        <h1 className={'latestnametxt absolute top-[600px] left-[500px]'}> Geometric drop earrings</h1>
-                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[620px] left-[520px]'}>Rs1,090.00</p>
+                        <h1 className={'latestnametxt absolute top-[600px] left-[500px]'}>Cinderella high heel</h1>
+                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[620px] left-[520px]'}>Rs7,990.00</p>
                         <button className={'absolute w-[80px] h-[40px] bg-teal-800 rounded-l rounded-r text-white left-[520px] top-[650px]'}>Shop Now</button>
                     </div>
 
                     <div>
-                        <h1 className={'latestnametxt absolute top-[600px] left-[810px]'}>9pairs Star & Flower Drop Earring set</h1>
-                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[620px] left-[880px]'}>Rs1,890.00</p>
+                        <h1 className={'latestnametxt absolute top-[600px] left-[810px]'}>Ted Baker Menipp High heel</h1>
+                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[620px] left-[880px]'}>Rs6,890.00</p>
                         <button className={'absolute w-[80px] h-[40px] bg-teal-800 rounded-l rounded-r text-white left-[880px] top-[650px]'}>Shop Now</button>
                     </div>
 
                     <div>
-                        <h1 className={'latestnametxt absolute top-[600px] left-[1190px]'}>9Pairs Gold Plated Earring set</h1>
-                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[620px] left-[1240px]'}>Rs1,890.00</p>
+                        <h1 className={'latestnametxt absolute top-[600px] left-[1190px]'}>Floral Embroider mesh High heel</h1>
+                        <p className={'text-teal-900 font-medium text-sm+ absolute top-[620px] left-[1240px]'}>Rs7,890.00</p>
                         <button className={'absolute w-[80px] h-[40px] bg-teal-800 rounded-l rounded-r text-white left-[1240px] top-[650px]'}>Shop Now</button>
                     </div>
                 </div>
